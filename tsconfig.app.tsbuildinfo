@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/context/systemcontext.tsx","./src/core/configurationmanager.ts","./src/core/logger.ts","./src/core/maincontroller.ts","./src/core/resourcemanager.ts","./src/core/scheduler.ts","./src/core/synchronizationmanager.ts"],"version":"5.9.3"}
